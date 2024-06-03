@@ -1,0 +1,13 @@
+<map edf:definitions="editor_main">
+    <removeWorldObject id="removeWorldObject (sprayshpdr2_SFSe) (1)" radius="6.643784" interior="-1" model="11319" lodModel="0" posX="-1904.5312" posY="277.89844" posZ="42.95313" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (sprayshpdr2_SFSe) (2)" radius="6.643784" interior="-1" model="11319" lodModel="0" posX="-1904.5312" posY="277.89844" posZ="42.95313" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (spdr_sfw) (1)" radius="6.726604" interior="-1" model="9625" lodModel="0" posX="-2425.7266" posY="1027.9922" posZ="52.28125" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (michdr) (1)" radius="5.6777983" interior="-1" model="10182" lodModel="0" posX="-1786.8125" posY="1209.4219" posZ="25.83594" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (cxf_spraydoor1) (1)" radius="6.6456099" interior="-1" model="3294" lodModel="0" posX="-1420.5469" posY="2591.1563" posZ="57.74219" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (cxf_spraydoor1) (2)" radius="6.6456099" interior="-1" model="3294" lodModel="0" posX="-100" posY="1111.4141" posZ="21.64063" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (CE_spraydoor1) (1)" radius="4.9719038" interior="-1" model="13028" lodModel="0" posX="720.01563" posY="-462.52344" posZ="16.85938" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (lawnspraydoor1) (1)" radius="4.9156475" interior="-1" model="5856" lodModel="0" posX="1024.9844" posY="-1029.3516" posZ="33.19531" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (garagDoor1_LAwN) (1)" radius="5.0575686" interior="-1" model="5779" lodModel="0" posX="1041.3516" posY="-1025.9297" posZ="32.67188" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (spraydoor_LAw2) (1)" radius="5.2424793" interior="-1" model="6400" lodModel="0" posX="488.28125" posY="-1734.6953" posZ="12.39063" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (laespraydoor1) (1)" radius="4.9156308" interior="-1" model="5422" lodModel="0" posX="2071.4766" posY="-1831.4219" posZ="14.5625" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+</map>
